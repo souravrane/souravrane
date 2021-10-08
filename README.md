@@ -1,6 +1,6 @@
 ### Hey there ! I am Sourav Rane 👋
 
-<h1 align="left">I'm a Frontend Developer</h1>
+<h1 align="left">I'm a Software Developer</h1>
 
 - 🔭 I’m currently working at Deloitte US-India
 
