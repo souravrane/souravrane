@@ -2,8 +2,7 @@
 
 <h1 align="left">I'm a Software Developer</h1>
 
-- 🔭 I’m currently working at Deloitte US-India
-
+- 🔭 I’m currently working at Deloitte
 - 👯 I’m looking to collaborate with other fellow developers.
 
 - 📫 Reach out to me at : **souravrane112@gmail.com**
