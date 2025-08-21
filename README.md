@@ -1,4 +1,5 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=200&section=header&text=Sourav%20Rane&fontSize=50&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Scalable%20Systems%20and%20GenAI%20Enthusiast&descAlignY=55&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=8A2BE2,00BFFF&height=200&section=header&text=Sourav%20Rane&fontSize=50&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Scalable%20Systems%20and%20GenAI%20Enthusiast&descAlignY=55&descAlign=50)
+
 
 👋 Hi, I’m **Sourav Rane**  
 🚀 Software Engineer | ⚡ Scalable Systems Enthusiast | 🤖 Exploring Generative AI  
@@ -67,4 +68,4 @@
 💡 Always excited to discuss **scalable architectures** and **GenAI applications**.  
 📬 Reach out if you’d like to **brainstorm or collaborate**!
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=8A2BE2,00BFFF&height=120&section=footer)
