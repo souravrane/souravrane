@@ -8,7 +8,7 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&color=F7A41D&lines=Building+Scalable+Systems;Exploring+Generative+AI;Always+Learning+and+Sharing)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?size=22&pause=800&width=650&lines=Building+Scalable+Systems;Exploring+Generative+AI;Always+Learning+and+Sharing)](https://github.com/DenverCoder1/readme-typing-svg)
 
 ---
 
@@ -20,9 +20,9 @@
 ---
 
 ### 🚀 Featured Projects
-- [**Log Analyser**](https://github.com/souravrane/log-analyser) – Handle 10M+ logs with clustering & visualization  
-- [**TADKA**](https://github.com/souravrane/tadka) – AI-powered duplicate ticket detection  
-- [**GenAI Playground**](https://github.com/souravrane/genai-playground) – Experiments with embeddings, RAG, and fine-tuning  
+- **Scalable Log Analyzer** – Built to process and cluster **10M+ log entries** efficiently with real-time insights  
+- **TADKA** – AI-driven engine that detects and groups **duplicate support tickets** for faster resolution  
+- **GenAI Experiments** – A personal lab exploring **embeddings, RAG, fine-tuning**, and practical LLM use cases  
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
 ![FastAPI](https://img.shields.io/badge/FastAPI-async-green?logo=fastapi)
@@ -49,10 +49,10 @@
 
 ---
 
-### 🎯 Outside of Work
-- 🎸 Jamming on guitar  
-- 📚 Geeking out on sci-fi novels  
-- ☕ Exploring Bangalore’s coffee culture  
+### 🎯 Beyond Code
+- 🏸 Competitive **badminton player**, always up for a rally  
+- 🏍️ Passionate about **riding my bike** on long city and highway stretches  
+- ☕ On a mission to **explore every café in Bangalore** — one latte at a time  
 
 ---
 
