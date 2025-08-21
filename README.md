@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=8A2BE2,00BFFF&height=200&section=header&text=Sourav%20Rane&fontSize=50&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Scalable%20Systems%20and%20GenAI%20Enthusiast&descAlignY=55&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=8A2BE2,00BFFF&height=200&section=header&text=Sourav%20Rane&fontSize=50&animation=fadeIn&fontAlignY=35&fontColor=ffffff&desc=Software%20Engineer%20%7C%20Scalable%20Systems%20and%20GenAI%20Enthusiast&descAlignY=55&descAlign=50&descAlign=50)
 
 
 👋 Hi, I’m **Sourav Rane**  
