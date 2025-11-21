@@ -4,7 +4,7 @@
 🚀 Software Engineer | ⚡ Distributed Systems & Platform Engineering | 🤖 GenAI Experimenter  
 
 🌍 Based in **Bangalore, India**  
-🌐 Portfolio: **https://www.souravrane.com**  
+🌐 Portfolio: **[souravrane.com](https://souravrane.vercel.app/)**  
 ✉️ Email: **souravrane112@gmail.com**
 
 ---
